@@ -8,6 +8,8 @@ public class uhhm extends Application {
 
     @Override
     public void start(Stage primaryStage)  {
+
+
         Scene scene = new Scene(new Button("Ok"), 400, 250);
         primaryStage.setTitle("THIS FIRST STAGE MY BITCH YO");
         primaryStage.setScene(scene);
