@@ -8,6 +8,7 @@ import javafx.scene.layout.GridPane;
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
+import javafx.scene.shape.Line;
 import javafx.stage.Stage;
 
 import java.awt.*;
@@ -58,9 +59,6 @@ public class IDKaGridFuckIt extends Application {
         primaryStage.show();
 
 
-
-
-
-
     }
 }
+
